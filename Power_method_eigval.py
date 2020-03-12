@@ -1,5 +1,5 @@
 '''
-This method tires to estimate the largest eigen value by taking a trail 
+This method tries to estimate the largest eigen value by taking a trail 
 vector and sucsessivley itterating on it to obtain the eigen value.
 we stop when the method converges to some particular threshold.
 
